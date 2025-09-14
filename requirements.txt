@@ -1,0 +1,8 @@
+
+numpy
+pandas
+scikit-learn>=1.6
+joblib>=1.3
+requests
+nfl-data-py
+pytz
